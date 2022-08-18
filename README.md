@@ -1,7 +1,7 @@
-# NJLAGS_CNV_Rohan_Alibutud
+NJLAGS_CNV_Rohan_Alibutud
 Repository for code used in the analysis of copy number variants in the NJLAGS cohort as part of a project in the Xing Lab of Genomics at Rutgers University
 
-# CNV_RunThrough.sh
+CNV_RunThrough.sh
 
 NJLAGS CNV Prioritization Pipeline
 
@@ -24,6 +24,6 @@ Scripts needed:
 -Add_StrVCTVRE.py
 -GMN_Summarizer.py
 
-# Positions on Alu server
+Positions on Alu server
 Full pipeline run: /lab01/Projects/Rohan_Projects/CNV_Project/Total_Pathway/Scripts/CNV_RunThrough.sh
 Resulting files: /lab01/Projects/Rohan_Projects/CNV_Project/2022/Total_Pathway/Results
