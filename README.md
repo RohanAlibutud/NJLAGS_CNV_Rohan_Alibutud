@@ -1,9 +1,10 @@
-NJLAGS_CNV_Rohan_Alibutud
+# NJLAGS_CNV_Rohan_Alibutud
+
 Repository for code used in the analysis of copy number variants in the NJLAGS cohort as part of a project in the Xing Lab of Genomics at Rutgers University
 
-CNV_RunThrough.sh
+# NJLAGS CNV Prioritization Pipeline
 
-NJLAGS CNV Prioritization Pipeline
+Bash script: CNV_RunThrough.sh
 
 Files needed:
 -cnv_call_files: all the starting files taken from Vaidhy's analysis, pre-merges
