@@ -1,0 +1,16 @@
+echo "Running StrVCTVRE shell script now."
+
+echo "Running Build_StrVCTVRE.py"
+python Build_StrVCTVRE.py
+echo "Build_StrVCTVRE.py has completed running"
+
+echo "Running StrVCTVRE.py"
+python /home/rohan/CNV_Project/StrVCTVRE/StrVCTVRE.py -i ../Data/ASD_only/GMN.bed -o ../Data/ASD_only/GMN_StrVCTVRE.tsv -f bed 
+-a GRCh37 -l /home/rohan/CNV_Project/LiftOver/liftOver
+echo "StrVCTVRE.py has completed running"
+
+echo "Running Add_StrVCTVRE.py"
+python Add_StrVCTVRE.py
+echo "Add_StrVCTVRE.py has completed running"
+
+echo "StrVCTVRE shell script has completed running"
