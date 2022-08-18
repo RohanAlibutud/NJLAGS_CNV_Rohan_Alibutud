@@ -13,17 +13,18 @@ Files needed:
 -individuals.txt: text file containing all the PARTIDs for the individuals in the sample
 
 Scripts needed:
--CNV_Scripts.py
--CNV_Merge4.py
--VCFizer2.py
--Manipulator.py
--Geminesque_2022.py
--GMN_Prioritizer.py
--Build_StrVCTVRE.py
--StrVCTVRE.py
--Add_StrVCTVRE.py
--GMN_Summarizer.py
+ - CNV_Scripts.py
+ - CNV_Merge4.py
+ - VCFizer2.py
+ - Manipulator.py
+ - Geminesque_2022.py
+ - GMN_Prioritizer.py
+ - Build_StrVCTVRE.py
+ - StrVCTVRE.py
+ - Add_StrVCTVRE.py
+ - GMN_Summarizer.py
 
 Positions on Alu server
 Full pipeline run: /lab01/Projects/Rohan_Projects/CNV_Project/Total_Pathway/Scripts/CNV_RunThrough.sh
+
 Resulting files: /lab01/Projects/Rohan_Projects/CNV_Project/2022/Total_Pathway/Results
